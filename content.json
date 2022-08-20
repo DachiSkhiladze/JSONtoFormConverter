@@ -1,0 +1,30 @@
+{
+  "Jobs": [
+    {
+      "Name": {
+        "En": "სატელეკომუნიკაციო კომპანია",
+        "Ge": "სატელეკომუნიკაციო კომპანია"
+      },
+      "Ranks": [
+        {
+          "Name": {
+            "En": "სტაჟიორი",
+            "Ge": "სტაჟიორი"
+          },
+          "RequiredQualification": 0,
+          "RequiredItemIds": null,
+          "Salary": 500.0,
+          "Position": 0,
+          "StepsForNextRank": 0,
+          "QuestionDifficulties": {
+            "easy": 80,
+            "moderate": 20
+          }
+        }
+      ],
+      "Id": "c80429ca-411d-453a-8a4e-1559bae2569f",
+      "City": 0ww
+    }
+  ]
+}
+
